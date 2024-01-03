@@ -1,6 +1,6 @@
 {
-  "name": "Uniswap Labs Default",
-  "timestamp": "2023-12-28T08:20:23.388Z",
+  "name": "Fairswap Labs Default",
+  "timestamp": "2024-01-03T02:56:59.093Z",
   "version": {
     "major": 11,
     "minor": 11,
@@ -9,18 +9,10 @@
   "tags": {},
   "logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
   "keywords": [
-    "uniswap",
+    "fairswap",
     "default"
   ],
   "tokens": [
-    {
-      "chainId": 56,
-      "address": "0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c",
-      "name": "Wrapped BNB",
-      "symbol": "WBNB",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
-    },
     {
       "name": "USDCoin",
       "address": "0x24F171b52367373B6f92D77e362EDeA30119E4Ee",
@@ -36,6 +28,46 @@
       "symbol": "WBNB",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/Uniswap/assets/master/blockchains/smartchain/assets/0xbb4CdB9CBd36B01bD1cBaEBF2De08d9173bc095c/logo.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x4b21b980d0Dc7D3C0C6175b0A412694F3A1c7c6b",
+      "name": "Ether",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2/logo.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x3f97bf3cd76b5ca9d4a4e9cd8a73c24e32d6c193",
+      "name": "Tether USD",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xdAC17F958D2ee523a2206206994597C13D831ec7/logo.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x813bCb548F99Bc081e5EFeeAa65e3018befb92Ae",
+      "name": "Wrapped BTC",
+      "symbol": "WBTC",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/bitcoin/info/logo.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0xD33Db7EC50A98164cC865dfaa64666906d79319C",
+      "name": "Wrapped USDC",
+      "symbol": "WUSDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/ethereum/assets/0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48/logo.png"
+    },
+    {
+      "chainId": 42766,
+      "address": "0x1cD3E2A23C45A690a18Ed93FD1412543f464158F",
+      "name": "ZKF",
+      "symbol": "ZKF",
+      "decimals": 18,
+      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/28857.png"
     }
   ]
 }
